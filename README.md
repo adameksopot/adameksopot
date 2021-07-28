@@ -1,9 +1,8 @@
 ### Hi there, I'm Adam 👋
 
-#### I'm an Artificial Intelligence Student!
 
 - 🔭 I’m currently using Python 
-- 🥅 2021 Goals:  Code more, learn more :)
+- 🥅 2021 Goals:  Master Flask,REST and learn React :)
 
 ### Github stats.
 

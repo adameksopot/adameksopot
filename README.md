@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently using Python 
-- 🥅 2021 Goals:  Master Flask,REST and learn React :)
+- 🥅 2021 Goals:  Vue and Flask
 
 ### Github stats.
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Adam. I've been an Android dev for 3 years 👋
+### Hi there, I'm Adam. I've been an Android dev for 4 years 👋
 
 ### Connect with me:
 
